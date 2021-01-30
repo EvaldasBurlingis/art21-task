@@ -18,7 +18,7 @@ PHP version: **>8.0**
 git clone https://github.com/EvaldasBurlingis/art21-task.git
 
 // change directory
-mcd art21-task
+cd art21-task
 
 // install dependencies
 composer install
